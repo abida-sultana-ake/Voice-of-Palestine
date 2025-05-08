@@ -36,28 +36,6 @@ As a developer and global citizen, I created *Voice of Palestine* to amplify rea
 
 ---
 
-## 🧭 Project Structure
-voices-of-palestine/
-├── public/                  # HTML shell and public assets
-├── src/
-│   ├── assets/              # Static assets: images, icons, audio
-│   ├── components/          # Reusable components: Navbar, Footer, StoryCard, QRCode, etc.
-│   ├── pages/               # Route-based pages: Home, Stories, Timeline, Map, etc.
-│   ├── firebase/            # Firebase setup: auth, Firestore, storage
-│   ├── context/             # React Context: AuthContext, LanguageContext
-│   ├── hooks/               # Custom hooks: useAuth, usePrayerTimes
-│   ├── data/                # Static JSON data: timeline, facts
-│   ├── i18n/                # Language files for English and Arabic
-│   ├── App.jsx              # Main application component
-│   └── index.js             # App entry point
-├── tailwind.config.js       # Tailwind CSS configuration
-├── App.css                  # Global styles with Tailwind base
-├── .env                     # Environment variables (Firebase keys)
-└── package.json             # Project metadata and dependencies
-
-
----
-
 
 ## A Message to the World
 **"The struggle of Palestine is not a headline. It's a heartbeat."**
