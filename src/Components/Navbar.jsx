@@ -69,6 +69,7 @@ const Navbar = () => {
       </div>
       <div className="navbar-end">
         <a className="btn font-bold btn-soft btn-success mr-3">Donate</a>
+        <a className="btn font-bold btn-soft btn-success mr-3">Login</a>
         <div className=" flex justify-center items-center gap-3">
         <MdLanguage className="size-7 text-green-400" />
         <input type="checkbox" defaultChecked className="toggle toggle-success" />
