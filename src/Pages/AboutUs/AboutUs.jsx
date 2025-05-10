@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-
 const AboutUs = () => {
   const [cards, setCards] = useState([]);
 
@@ -7,7 +6,7 @@ const AboutUs = () => {
     fetch("/public/Json/AboutUs.json")
       .then((res) => res.json())
       .then((data) => setCards(data))
-      .catch((erro) => console.error("Error fethcing cards:", erro));
+      .catch((error) => console.error("Error fethcing cards:", error));
   }, []);
 
   return (

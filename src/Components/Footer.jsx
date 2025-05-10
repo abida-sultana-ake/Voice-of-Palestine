@@ -9,8 +9,8 @@ const Footer = () => {
       <footer className="footer footer-horizontal footer-center bg-green-50 text-base-content rounded p-10">
         <nav className="grid grid-flow-col text-green-600 font-semibold gap-4">
           <NavLink className="font-bold text-green-600 link link-hover" to="/about">About us</NavLink>
-          <NavLink className="font-bold text-green-600 link link-hover" to="/about">FAQ</NavLink>
-          <NavLink className="font-bold text-green-600 link link-hover" to="/about">Privacy Policy</NavLink>
+          <NavLink className="font-bold text-green-600 link link-hover" to="/fq">FAQ</NavLink>
+          <NavLink className="font-bold text-green-600 link link-hover" to="/privacyPolicy">Privacy Policy</NavLink>
         </nav>
         <nav>
           <div className="grid grid-flow-col gap-4">
