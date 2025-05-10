@@ -1,0 +1,138 @@
+[
+    {
+      "id": 1,
+      "title": "Children of Gaza: Lives Interrupted",
+      "category": "Human Rights",
+      "date": "2025-04-20",
+      "author": "Nour Alwan",
+      "image": "/public/assets/ChildrenOfGaza.jpg",
+      "summary": "A look into how ongoing conflict affects the daily lives and education of children in Gaza."
+    },
+    {
+      "id": 2,
+      "title": "Voices Behind the Blockade",
+      "category": "Politics",
+      "date": "2025-03-15",
+      "author": "Layla Khatib",
+      "image": "/public/assets/VoicesBehindtheBlockade.jpg",
+      "summary": "Palestinians speak about life under siege and limited access to basic needs."
+    },
+    {
+      "id": 3,
+      "title": "Reviving Palestinian Culture Through Art",
+      "category": "Culture",
+      "date": "2025-03-28",
+      "author": "Samir Abu Nasser",
+      "image": "/public/assets/art.jpg",
+      "summary": "Young artists in Ramallah use murals and performances to tell untold stories."
+    },
+    {
+      "id": 4,
+      "title": "Women Leading the Resistance",
+      "category": "Profiles",
+      "date": "2025-04-02",
+      "author": "Fatima Jaber",
+      "image": "/public/assets/W.jpg",
+      "summary": "Meet the women shaping civil resistance and community rebuilding in Palestine."
+    },
+    {
+      "id": 5,
+      "title": "Life in the West Bank: A Daily Struggle",
+      "category": "Daily Life",
+      "date": "2025-04-09",
+      "author": "Yousef Mahmoud",
+      "image": "/public/assets/Bank.jpg",
+      "summary": "How families in Hebron navigate checkpoints, curfews, and uncertainty."
+    },
+    {
+      "id": 6,
+      "title": "Journalism Under Fire",
+      "category": "Media",
+      "date": "2025-03-12",
+      "author": "Rana Taha",
+      "image": "/public/assets/Reporter.jpg",
+      "summary": "Palestinian journalists risk their lives daily to deliver truth to the world."
+    },
+    {
+      "id": 7,
+      "title": "Youth Movements Calling for Change",
+      "category": "Activism",
+      "date": "2025-04-15",
+      "author": "Ahmad Zahran",
+      "image": "/public/assets/Movement.jpg",
+      "summary": "Student-led protests push for peace and global solidarity in universities."
+    },
+    {
+      "id": 8,
+      "title": "Heritage Sites at Risk",
+      "category": "History",
+      "date": "2025-02-28",
+      "author": "Mira Khaldi",
+      "image": "/public/assets/risk.jpg",
+      "summary": "Many historical landmarks face destruction due to conflict and neglect."
+    },
+    {
+      "id": 9,
+      "title": "Hope Through Education",
+      "category": "Education",
+      "date": "2025-04-01",
+      "author": "Basel Odeh",
+      "image": "https://example.com/images/palestine-education.jpg",
+      "summary": "Despite obstacles, students pursue knowledge and hope for a better future."
+    },
+    {
+      "id": 10,
+      "title": "Farmers Defend Their Land",
+      "category": "Environment",
+      "date": "2025-03-20",
+      "author": "Issa Hamed",
+      "image": "https://example.com/images/palestinian-farmers.jpg",
+      "summary": "Rural communities stand strong to protect olive groves and heritage farming."
+    },
+    {
+      "id": 11,
+      "title": "Diaspora Solidarity Actions",
+      "category": "Global",
+      "date": "2025-04-22",
+      "author": "Lina Awad",
+      "image": "https://example.com/images/diaspora-march.jpg",
+      "summary": "Palestinians around the world mobilize for advocacy and support."
+    },
+    {
+      "id": 12,
+      "title": "Digital Resistance Through Storytelling",
+      "category": "Tech",
+      "date": "2025-03-18",
+      "author": "Hani Abdeen",
+      "image": "https://example.com/images/digital-activism.jpg",
+      "summary": "Youth turn to social media and web platforms to amplify voices under occupation."
+    },
+    {
+      "id": 13,
+      "title": "Breaking the Silence: Testimonies from Survivors",
+      "category": "Testimonies",
+      "date": "2025-04-11",
+      "author": "Sahar Mansour",
+      "image": "https://example.com/images/survivors-palestine.jpg",
+      "summary": "Personal stories of loss and survival told by victims of recent airstrikes."
+    },
+    {
+      "id": 14,
+      "title": "Palestinian Cuisine: Taste of Resilience",
+      "category": "Culture",
+      "date": "2025-03-05",
+      "author": "Nidal Darwish",
+      "image": "https://example.com/images/palestinian-food.jpg",
+      "summary": "Food is more than nourishment — it's a form of cultural preservation and resistance."
+    },
+    {
+      "id": 15,
+      "title": "Rebuilding Gaza: Community-Led Recovery",
+      "category": "Reconstruction",
+      "date": "2025-04-25",
+      "author": "Zeinab Haddad",
+      "image": "https://example.com/images/rebuild-gaza.jpg",
+      "summary": "Local efforts focus on rebuilding homes, schools, and hope after destruction."
+    }
+  ]
+  

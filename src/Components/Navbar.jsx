@@ -11,11 +11,6 @@ const Navbar = () => {
         </NavLink>
       </li>
       <li>
-        <NavLink className="font-bold text-green-600" to="/stories">
-          Stories
-        </NavLink>
-      </li>
-      <li>
         <details>
           <summary className="font-bold text-green-600">Timeline</summary>
           <ul className="p-2 bg-white rounded-box shadow space-y-2">
