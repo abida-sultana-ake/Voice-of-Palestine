@@ -6,21 +6,21 @@ const Navbar = () => {
   const links = (
     <>
       <li>
-        <NavLink className="font-bold text-green-600" to="/">
+        <NavLink className="font-bold text-xl text-green-600" to="/">
           Home
         </NavLink>
       </li>
       <li>
         <details>
-          <summary className="font-bold text-green-600">Timeline</summary>
+          <summary className="font-bold text-xl text-green-600">Timeline</summary>
           <ul className="p-2 bg-white rounded-box shadow space-y-2">
             <li>
-              <NavLink className="font-bold text-green-600" to="/educate">
+              <NavLink className="font-bold  text-green-600" to="/educate">
                 Educate
               </NavLink>
             </li>
             <li>
-              <NavLink className="font-bold text-green-600" to="/map">
+              <NavLink className="font-bold  text-green-600" to="/map">
                 Map
               </NavLink>
             </li>
@@ -28,7 +28,7 @@ const Navbar = () => {
         </details>
       </li>
       <li>
-        <NavLink className="font-bold text-green-600" to="/voice">
+        <NavLink className="font-bold text-xl text-green-600" to="/voice">
           Voice
         </NavLink>
       </li>

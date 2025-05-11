@@ -77,7 +77,7 @@
       "category": "Education",
       "date": "2025-04-01",
       "author": "Basel Odeh",
-      "image": "https://example.com/images/palestine-education.jpg",
+      "image": "/public/assets/HopeThroughEducation.jpg",
       "summary": "Despite obstacles, students pursue knowledge and hope for a better future."
     },
     {
@@ -86,7 +86,7 @@
       "category": "Environment",
       "date": "2025-03-20",
       "author": "Issa Hamed",
-      "image": "https://example.com/images/palestinian-farmers.jpg",
+      "image": "/public/assets/Agri.jpg",
       "summary": "Rural communities stand strong to protect olive groves and heritage farming."
     },
     {
@@ -95,7 +95,7 @@
       "category": "Global",
       "date": "2025-04-22",
       "author": "Lina Awad",
-      "image": "https://example.com/images/diaspora-march.jpg",
+      "image": "/public/assets/action.jpg",
       "summary": "Palestinians around the world mobilize for advocacy and support."
     },
     {
@@ -104,7 +104,7 @@
       "category": "Tech",
       "date": "2025-03-18",
       "author": "Hani Abdeen",
-      "image": "https://example.com/images/digital-activism.jpg",
+      "image": "/public/assets/storyline.jpg",
       "summary": "Youth turn to social media and web platforms to amplify voices under occupation."
     },
     {
@@ -113,7 +113,7 @@
       "category": "Testimonies",
       "date": "2025-04-11",
       "author": "Sahar Mansour",
-      "image": "https://example.com/images/survivors-palestine.jpg",
+      "image": "/public/assets/Testimonies.jpg",
       "summary": "Personal stories of loss and survival told by victims of recent airstrikes."
     },
     {
@@ -122,7 +122,7 @@
       "category": "Culture",
       "date": "2025-03-05",
       "author": "Nidal Darwish",
-      "image": "https://example.com/images/palestinian-food.jpg",
+      "image": "/public/assets/Culture.jpg",
       "summary": "Food is more than nourishment — it's a form of cultural preservation and resistance."
     },
     {
@@ -131,7 +131,7 @@
       "category": "Reconstruction",
       "date": "2025-04-25",
       "author": "Zeinab Haddad",
-      "image": "https://example.com/images/rebuild-gaza.jpg",
+      "image": "/public/assets/Rebuilding.jpg",
       "summary": "Local efforts focus on rebuilding homes, schools, and hope after destruction."
     }
   ]
