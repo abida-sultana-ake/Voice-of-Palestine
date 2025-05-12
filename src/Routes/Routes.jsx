@@ -5,6 +5,7 @@ import FQ from "../Pages/F&Q/FQ";
 import PrivacyPolicy from "../Pages/PrivacyPolicy/PrivacyPolicy";
 import MainLayout from "../Layout/MainLayout/MainLayout";
 import AboutUs from "../Pages/AboutUs/AboutUs";
+import StoryDetails from "../Pages/Home/StoryDetails";
 
 export const router = createBrowserRouter([
   {
@@ -27,6 +28,10 @@ export const router = createBrowserRouter([
       {
         path: "/privacyPolicy",
         element: <PrivacyPolicy/>,
+      },
+      {
+        path: "/StoryDetails/:id",
+        element: <StoryDetails/>,
       },
     ],
   },

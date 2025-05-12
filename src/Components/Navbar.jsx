@@ -81,7 +81,7 @@ const Navbar = () => {
 
       <div className="navbar-end flex items-center gap-2 text-sm md:text-base">
         <a className="btn btn-xs md:btn-sm lg:btn-md font-bold btn-success">
-          Donate
+          Register
         </a>
         <a className="btn btn-xs md:btn-sm lg:btn-md font-bold btn-success">
           Login

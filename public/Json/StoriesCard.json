@@ -1,138 +1,152 @@
 [
-    {
-      "id": 1,
-      "title": "Children of Gaza: Lives Interrupted",
-      "category": "Human Rights",
-      "date": "2025-04-20",
-      "author": "Nour Alwan",
-      "image": "/public/assets/ChildrenOfGaza.jpg",
-      "summary": "A look into how ongoing conflict affects the daily lives and education of children in Gaza."
-    },
-    {
-      "id": 2,
-      "title": "Voices Behind the Blockade",
-      "category": "Politics",
-      "date": "2025-03-15",
-      "author": "Layla Khatib",
-      "image": "/public/assets/VoicesBehindtheBlockade.jpg",
-      "summary": "Palestinians speak about life under siege and limited access to basic needs."
-    },
-    {
-      "id": 3,
-      "title": "Reviving Palestinian Culture Through Art",
-      "category": "Culture",
-      "date": "2025-03-28",
-      "author": "Samir Abu Nasser",
-      "image": "/public/assets/art.jpg",
-      "summary": "Young artists in Ramallah use murals and performances to tell untold stories."
-    },
-    {
-      "id": 4,
-      "title": "Women Leading the Resistance",
-      "category": "Profiles",
-      "date": "2025-04-02",
-      "author": "Fatima Jaber",
-      "image": "/public/assets/W.jpg",
-      "summary": "Meet the women shaping civil resistance and community rebuilding in Palestine."
-    },
-    {
-      "id": 5,
-      "title": "Life in the West Bank: A Daily Struggle",
-      "category": "Daily Life",
-      "date": "2025-04-09",
-      "author": "Yousef Mahmoud",
-      "image": "/public/assets/Bank.jpg",
-      "summary": "How families in Hebron navigate checkpoints, curfews, and uncertainty."
-    },
-    {
-      "id": 6,
-      "title": "Journalism Under Fire",
-      "category": "Media",
-      "date": "2025-03-12",
-      "author": "Rana Taha",
-      "image": "/public/assets/Reporter.jpg",
-      "summary": "Palestinian journalists risk their lives daily to deliver truth to the world."
-    },
-    {
-      "id": 7,
-      "title": "Youth Movements Calling for Change",
-      "category": "Activism",
-      "date": "2025-04-15",
-      "author": "Ahmad Zahran",
-      "image": "/public/assets/Movement.jpg",
-      "summary": "Student-led protests push for peace and global solidarity in universities."
-    },
-    {
-      "id": 8,
-      "title": "Heritage Sites at Risk",
-      "category": "History",
-      "date": "2025-02-28",
-      "author": "Mira Khaldi",
-      "image": "/public/assets/risk.jpg",
-      "summary": "Many historical landmarks face destruction due to conflict and neglect."
-    },
-    {
-      "id": 9,
-      "title": "Hope Through Education",
-      "category": "Education",
-      "date": "2025-04-01",
-      "author": "Basel Odeh",
-      "image": "/public/assets/HopeThroughEducation.jpg",
-      "summary": "Despite obstacles, students pursue knowledge and hope for a better future."
-    },
-    {
-      "id": 10,
-      "title": "Farmers Defend Their Land",
-      "category": "Environment",
-      "date": "2025-03-20",
-      "author": "Issa Hamed",
-      "image": "/public/assets/Agri.jpg",
-      "summary": "Rural communities stand strong to protect olive groves and heritage farming."
-    },
-    {
-      "id": 11,
-      "title": "Diaspora Solidarity Actions",
-      "category": "Global",
-      "date": "2025-04-22",
-      "author": "Lina Awad",
-      "image": "/public/assets/action.jpg",
-      "summary": "Palestinians around the world mobilize for advocacy and support."
-    },
-    {
-      "id": 12,
-      "title": "Digital Resistance Through Storytelling",
-      "category": "Tech",
-      "date": "2025-03-18",
-      "author": "Hani Abdeen",
-      "image": "/public/assets/storyline.jpg",
-      "summary": "Youth turn to social media and web platforms to amplify voices under occupation."
-    },
-    {
-      "id": 13,
-      "title": "Breaking the Silence: Testimonies from Survivors",
-      "category": "Testimonies",
-      "date": "2025-04-11",
-      "author": "Sahar Mansour",
-      "image": "/public/assets/Testimonies.jpg",
-      "summary": "Personal stories of loss and survival told by victims of recent airstrikes."
-    },
-    {
-      "id": 14,
-      "title": "Palestinian Cuisine: Taste of Resilience",
-      "category": "Culture",
-      "date": "2025-03-05",
-      "author": "Nidal Darwish",
-      "image": "/public/assets/Culture.jpg",
-      "summary": "Food is more than nourishment — it's a form of cultural preservation and resistance."
-    },
-    {
-      "id": 15,
-      "title": "Rebuilding Gaza: Community-Led Recovery",
-      "category": "Reconstruction",
-      "date": "2025-04-25",
-      "author": "Zeinab Haddad",
-      "image": "/public/assets/Rebuilding.jpg",
-      "summary": "Local efforts focus on rebuilding homes, schools, and hope after destruction."
-    }
-  ]
-  
+  {
+    "id": 1,
+    "title": "Children of Gaza: Lives Interrupted",
+    "category": "Human Rights",
+    "date": "2025-04-20",
+    "author": "Nour Alwan",
+    "image": "/public/assets/ChildrenOfGaza.jpg",
+    "summary": "A look into how ongoing conflict affects the daily lives and education of children in Gaza.",
+    "categoryDetails": "The Human Rights category sheds light on fundamental rights and freedoms that are at risk. It highlights how war, displacement, and occupation affect civilians, especially vulnerable groups like children. Stories often reflect the psychological trauma, educational disruptions, and humanitarian violations experienced under military conflict. Human Rights reporting serves to bring international attention and accountability to areas often neglected. It amplifies the voices of those who suffer and those who advocate for justice. This category is crucial for exposing injustice and pressing for policy reform and global intervention."
+  },
+  {
+    "id": 2,
+    "title": "Voices Behind the Blockade",
+    "category": "Politics",
+    "date": "2025-03-15",
+    "author": "Layla Khatib",
+    "image": "/public/assets/VoicesBehindtheBlockade.jpg",
+    "summary": "Palestinians speak about life under siege and limited access to basic needs.",
+    "categoryDetails": "The Politics category explores the policies, power structures, and geopolitical dynamics that shape Palestinian life. It includes government decisions, international relations, and legal frameworks that reinforce or challenge occupation. Political analysis covers how blockade, military presence, and diplomatic recognition impact daily survival and self-determination. This section gives readers a deep understanding of the strategic, often controversial, decisions affecting the region. It often intertwines with resistance movements, governance issues, and peace negotiations. The goal is to provide clarity and context to complex power struggles."
+  },
+  {
+    "id": 3,
+    "title": "Reviving Palestinian Culture Through Art",
+    "category": "Culture",
+    "date": "2025-03-28",
+    "author": "Samir Abu Nasser",
+    "image": "/public/assets/art.jpg",
+    "summary": "Young artists in Ramallah use murals and performances to tell untold stories.",
+    "categoryDetails": "Culture is a powerful tool of identity and resistance for Palestinians. This category captures music, art, food, festivals, and oral traditions passed through generations. Despite displacement and conflict, Palestinians preserve and adapt their cultural heritage as a form of resilience. Art becomes a voice when others are silenced — murals, poems, and performances often tell stories that mainstream media omits. Cultural pieces emphasize pride, unity, and survival. They help younger generations connect with their roots while inspiring global solidarity."
+  },
+  {
+    "id": 4,
+    "title": "Women Leading the Resistance",
+    "category": "Profiles",
+    "date": "2025-04-02",
+    "author": "Fatima Jaber",
+    "image": "/public/assets/W.jpg",
+    "summary": "Meet the women shaping civil resistance and community rebuilding in Palestine.",
+    "categoryDetails": "The Profiles category shines a light on individuals driving change, courageously serving their communities, or representing Palestinian identity. These stories often feature activists, teachers, artists, and leaders whose personal journeys reflect larger struggles. Women’s profiles in particular highlight the double burden of patriarchy and occupation. Personal narratives in this section humanize the conflict and spotlight untold contributions. Profiles inspire and empower, serving as living histories of resistance, resilience, and transformation in Palestinian society."
+  },
+  {
+    "id": 5,
+    "title": "Life in the West Bank: A Daily Struggle",
+    "category": "Daily Life",
+    "date": "2025-04-09",
+    "author": "Yousef Mahmoud",
+    "image": "/public/assets/Bank.jpg",
+    "summary": "How families in Hebron navigate checkpoints, curfews, and uncertainty.",
+    "categoryDetails": "The Daily Life category reflects the realities of living under occupation — from morning routines to dealing with military checkpoints and curfews. These stories capture the mundane yet extraordinary resilience of people trying to live normal lives in abnormal circumstances. Articles cover transportation issues, access to food and medicine, education, and communal support systems. This section helps readers understand the personal and emotional cost of conflict. It reveals how perseverance shapes the social fabric of Palestinian neighborhoods."
+  },
+  {
+    "id": 6,
+    "title": "Journalism Under Fire",
+    "category": "Media",
+    "date": "2025-03-12",
+    "author": "Rana Taha",
+    "image": "/public/assets/Reporter.jpg",
+    "summary": "Palestinian journalists risk their lives daily to deliver truth to the world.",
+    "categoryDetails": "The Media category highlights the essential role of journalism in conflict zones. In Palestine, reporters often face censorship, threats, and violence simply for telling the truth. This section explores the bravery of journalists who document injustice, displacement, and human rights violations. It also examines media bias, misinformation, and the global struggle for narrative control. These stories celebrate press freedom and the pursuit of truth, while also examining the dangers of reporting under occupation."
+  },
+  {
+    "id": 7,
+    "title": "Youth Movements Calling for Change",
+    "category": "Activism",
+    "date": "2025-04-15",
+    "author": "Ahmad Zahran",
+    "image": "/public/assets/Movement.jpg",
+    "summary": "Student-led protests push for peace and global solidarity in universities.",
+    "categoryDetails": "The Activism category captures the energy and passion of Palestinians—especially youth—who stand up against injustice. Stories include protests, sit-ins, advocacy campaigns, and community organizing. Activists often challenge both local authority and global indifference, striving to shape the future. Whether on the streets or online, activism is a driving force for awareness and action. These stories are rooted in hope, empowerment, and collective resistance. The category connects grassroots movements in Palestine with global networks of solidarity."
+  },
+  {
+    "id": 8,
+    "title": "Heritage Sites at Risk",
+    "category": "History",
+    "date": "2025-02-28",
+    "author": "Mira Khaldi",
+    "image": "/public/assets/risk.jpg",
+    "summary": "Many historical landmarks face destruction due to conflict and neglect.",
+    "categoryDetails": "The History category documents the ancient, diverse, and rich heritage of Palestine. It includes sacred sites, architectural landmarks, and archaeological treasures that tell stories of past civilizations and cultures. However, many of these sites are now at risk due to conflict, illegal excavations, and urban development. Preserving history becomes an act of resistance, reclaiming narrative and memory. This section helps protect cultural identity and educates the world about Palestine’s longstanding historical significance."
+  },
+  {
+    "id": 9,
+    "title": "Hope Through Education",
+    "category": "Education",
+    "date": "2025-04-01",
+    "author": "Basel Odeh",
+    "image": "/public/assets/HopeThroughEducation.jpg",
+    "summary": "Despite obstacles, students pursue knowledge and hope for a better future.",
+    "categoryDetails": "Education is both a right and a tool of liberation. The Education category focuses on schools, students, and learning initiatives under difficult conditions. Teachers work without pay, schools are bombed, and students study amid trauma. Yet, education remains a symbol of hope and resistance. This section celebrates academic achievements and highlights efforts to rebuild learning environments. It emphasizes the role of knowledge in breaking cycles of poverty and occupation."
+  },
+  {
+    "id": 10,
+    "title": "Farmers Defend Their Land",
+    "category": "Environment",
+    "date": "2025-03-20",
+    "author": "Issa Hamed",
+    "image": "/public/assets/Agri.jpg",
+    "summary": "Rural communities stand strong to protect olive groves and heritage farming.",
+    "categoryDetails": "The Environment category explores how Palestinian ecosystems, farmlands, and natural resources are impacted by occupation and climate change. Olive groves, water access, and sustainable agriculture are deeply tied to identity and survival. Stories include environmental justice, indigenous farming practices, and land confiscation issues. This category highlights how environmental stewardship is intertwined with political resistance and heritage preservation."
+  },
+  {
+    "id": 11,
+    "title": "Diaspora Solidarity Actions",
+    "category": "Global",
+    "date": "2025-04-22",
+    "author": "Lina Awad",
+    "image": "/public/assets/action.jpg",
+    "summary": "Palestinians around the world mobilize for advocacy and support.",
+    "categoryDetails": "The Global category focuses on international voices, actions, and movements in support of Palestine. This includes diaspora efforts, global protests, BDS campaigns, and human rights advocacy worldwide. It emphasizes transnational solidarity and the role of social media, international law, and diplomacy. Stories in this category show how the Palestinian cause resonates beyond borders and how global communities contribute to awareness and justice."
+  },
+  {
+    "id": 12,
+    "title": "Digital Resistance Through Storytelling",
+    "category": "Tech",
+    "date": "2025-03-18",
+    "author": "Hani Abdeen",
+    "image": "/public/assets/storyline.jpg",
+    "summary": "Youth turn to social media and web platforms to amplify voices under occupation.",
+    "categoryDetails": "The Tech category highlights digital tools, platforms, and innovations used to resist oppression and build community. Palestinian youth use websites, apps, podcasts, and online archives to share stories and organize movements. This section focuses on digital resilience, cybersecurity, and media literacy under surveillance. Technology becomes a weapon of truth, enabling activism, creativity, and connection despite censorship or limited infrastructure."
+  },
+  {
+    "id": 13,
+    "title": "Breaking the Silence: Testimonies from Survivors",
+    "category": "Testimonies",
+    "date": "2025-04-11",
+    "author": "Sahar Mansour",
+    "image": "/public/assets/Testimonies.jpg",
+    "summary": "Personal stories of loss and survival told by victims of recent airstrikes.",
+    "categoryDetails": "The Testimonies category presents raw, first-person narratives from people affected by violence, displacement, and trauma. These voices offer intimate insights into grief, resilience, and resistance. Testimonies preserve memory and challenge denial or distortion of facts. They are often powerful tools for healing, justice, and advocacy. This section ensures that the human cost of conflict is not forgotten."
+  },
+  {
+    "id": 14,
+    "title": "Palestinian Cuisine: Taste of Resilience",
+    "category": "Culture",
+    "date": "2025-03-05",
+    "author": "Nidal Darwish",
+    "image": "/public/assets/Culture.jpg",
+    "summary": "Food is more than nourishment — it's a form of cultural preservation and resistance.",
+    "categoryDetails": "Culture is central to Palestinian identity and pride. Food traditions, embroidery, music, and storytelling connect generations and assert belonging. Even under occupation, cultural expressions become acts of resistance. Cooking traditional dishes, practicing folklore, or reviving lost customs can carry deep historical and emotional meaning. Culture sustains community bonds and provides emotional strength in times of hardship."
+  },
+  {
+    "id": 15,
+    "title": "Rebuilding Gaza: Community-Led Recovery",
+    "category": "Reconstruction",
+    "date": "2025-04-25",
+    "author": "Zeinab Haddad",
+    "image": "/public/assets/Rebuilding.jpg",
+    "summary": "Local efforts focus on rebuilding homes, schools, and hope after destruction.",
+    "categoryDetails": "Reconstruction highlights the process of healing and rebuilding in the aftermath of war and destruction. This category showcases community initiatives to restore housing, infrastructure, education, and healthcare. It focuses on local leadership, international aid, and resilience. Despite limited resources, Palestinians often lead efforts to reclaim dignity and stability. These stories are symbols of hope, showing how a shattered city can rise again."
+  }
+]
