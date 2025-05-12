@@ -80,12 +80,16 @@ const Navbar = () => {
       </div>
 
       <div className="navbar-end flex items-center gap-2 text-sm md:text-base">
-        <a className="btn btn-xs md:btn-sm lg:btn-md font-bold btn-success">
+       <NavLink to="/register">
+         <button className="btn btn-xs md:btn-sm lg:btn-md font-bold btn-success">
           Register
-        </a>
-        <a className="btn btn-xs md:btn-sm lg:btn-md font-bold btn-success">
+        </button>
+       </NavLink>
+        <NavLink to="/login">
+          <button className="btn btn-xs md:btn-sm lg:btn-md font-bold btn-success">
           Login
-        </a>
+        </button>
+        </NavLink>
         <div className="hidden lg:flex items-center gap-2">
           <MdLanguage className="text-xl text-green-400" />
           <input

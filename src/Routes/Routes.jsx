@@ -6,6 +6,8 @@ import PrivacyPolicy from "../Pages/PrivacyPolicy/PrivacyPolicy";
 import MainLayout from "../Layout/MainLayout/MainLayout";
 import AboutUs from "../Pages/AboutUs/AboutUs";
 import StoryDetails from "../Pages/Home/StoryDetails";
+import Login from "../Pages/Login/Login";
+import Register from "../Pages/Register/Register";
 
 export const router = createBrowserRouter([
   {
@@ -15,24 +17,32 @@ export const router = createBrowserRouter([
     children: [
       {
         path: "/",
-        element: <Home/>
+        element: <Home />,
       },
       {
         path: "/about",
-        element: <AboutUs/>,
+        element: <AboutUs />,
       },
       {
         path: "/fq",
-        element: <FQ/>,
+        element: <FQ />,
       },
       {
         path: "/privacyPolicy",
-        element: <PrivacyPolicy/>,
+        element: <PrivacyPolicy />,
       },
       {
         path: "/StoryDetails/:id",
-        element: <StoryDetails/>,
+        element: <StoryDetails />,
       },
     ],
+  },
+  {
+    path: "/login",
+    element: <Login />,
+  },
+  {
+    path: "/register",
+    element: <Register />,
   },
 ]);
